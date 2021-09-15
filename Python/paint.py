@@ -43,7 +43,18 @@ def rectangle(start, end):
 
 def triangle(start, end):
     "Draw triangle from start to end."
-    pass  # TODO
+penup()
+goto(-150, -100)
+fillcolor("yellow")
+begin_fill()
+pendown()
+
+for i in range(3):
+    forward(300)
+    left(120)
+end_fill()
+
+   
 
 def tap(x, y):
     "Store starting point or draw shape."
