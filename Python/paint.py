@@ -63,16 +63,16 @@ def rectangle(start, end):
 
 def triangle(start, end):
     "Draw triangle from start to end."
-penup()
-goto(-150, -100)
-fillcolor("yellow")
-begin_fill()
-pendown()
+    penup()
+    goto(-150, -100)
+    fillcolor("yellow")
+    begin_fill()
+    pendown()
 
-for i in range(3):
-    forward(300)
-    left(120)
-end_fill()
+    for i in range(3):
+        forward(300)
+        left(120)
+    end_fill()
 
    
 
