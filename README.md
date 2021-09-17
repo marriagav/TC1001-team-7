@@ -38,7 +38,7 @@ To install the required software, run the following commands:
 The changes made to Pacman were:
 
 - Miguel: added two additional ghosts to the game.
-- Octavio: changed where Pacman stars.
+- Octavio: changed where Pacman starts.
 
 ## Memory
 
