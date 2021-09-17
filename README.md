@@ -39,6 +39,7 @@ The changes made to Pacman were:
 
 - Miguel: added two additional ghosts to the game.
 - Octavio: changed where Pacman starts.
+- Francisco: changed the map.
 
 ## Memory
 
@@ -46,6 +47,7 @@ The changes made to Memory were:
 
 - Miguel: the program now prints the number of taps after each tap.
 - Octavio: decrease the number of tiles to a 4x4 grid.
+- Francisco: inverted board colors.
 
 ## Cannon
 
@@ -53,4 +55,5 @@ The changes made to Cannon were:
 
 - Miguel: added gravity to the targets.
 - Octavio: changed ball speed.
+- Francisco: added kill count.
 
