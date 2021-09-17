@@ -45,6 +45,7 @@ The changes made to Pacman were:
 The changes made to Memory were:
 
 - Miguel: the program now prints the number of taps after each tap.
+- Octavio: decrease the number of tiles to a 4x4 grid.
 
 ## Cannon
 
