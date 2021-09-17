@@ -71,6 +71,7 @@ def move():
     for target in dupe:
         if abs(target - ball) > 13:
             targets.append(target)
+        else:    
             global kills
             kills += 1
             print(kills)
