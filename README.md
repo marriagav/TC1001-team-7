@@ -2,6 +2,12 @@
 Repository for the TC1001 course, in which we practiced git and collaborative coding.
 We selected "pacman.py" , "cannon.py" and "memory.py" as the files to edit.
 
+Authors:
+
+- Octavio Fenollosa
+- Miguel Arriaga
+- Francisco Herrera
+
 Original games code from: http://www.grantjenks.com/docs/freegames/index.html
 Games included:
 - Paint
