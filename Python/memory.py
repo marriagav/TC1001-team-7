@@ -50,6 +50,9 @@ def tap(x, y):
         hide[spot] = False
         hide[mark] = False
         state['mark'] = None
+    global tapCount
+    tapCount+=1
+    print(tapCount)
 
 def draw():
     "Draw image and tiles."
