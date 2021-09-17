@@ -73,6 +73,7 @@ def move():
             targets.append(target)
             global kills
             kills += 1
+            print(kills)
 
     draw()
 
